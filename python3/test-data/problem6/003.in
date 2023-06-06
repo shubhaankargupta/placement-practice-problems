@@ -1,0 +1,13 @@
+7 5
+bob T systems theory
+sally T theory
+ally T ai
+rob F systems
+ben F systems
+jenny F systems ai
+stephanie F theory
+c5 ally rob ben jenny
+c4 bob sally rob
+c6 bob sally rob ben
+c3 bob rob jenny stephanie
+c7 sally ally
