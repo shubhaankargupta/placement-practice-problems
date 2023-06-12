@@ -81,7 +81,9 @@ def print_results(test_file, expected, actual):
                     print(f'Test {test_file} failed. First difference at index {i}.')
                     return
 
-            print(f'Test {test_file} failed. First difference at index {i}.')
+        # Miscellaneous errors
+        else:
+            print(f'Test {test_file} failed.')
 
     return
 
